@@ -1,0 +1,197 @@
+.gis-map-wrapper {
+  position: relative;
+  width: 100%;
+  height: 600px;
+  background: #e8edef;
+}
+
+.gis-map {
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+
+/* Map title */
+
+.map-title-box {
+  position: absolute;
+
+  top: 15px;
+  left: 60px;
+
+  z-index: 1000;
+
+  background: rgba(255, 255, 255, 0.96);
+
+  border: 1px solid #c7d0d8;
+
+  padding: 10px 15px;
+
+  display: flex;
+  flex-direction: column;
+
+  gap: 4px;
+
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.map-title-box strong {
+  color: #244b6b;
+
+  font-size: 14px;
+
+  font-weight: 700;
+}
+
+.map-title-box span {
+  color: #66747e;
+
+  font-size: 11px;
+}
+
+
+/* Coordinate information */
+
+.coordinate-box {
+  position: absolute;
+
+  right: 15px;
+  bottom: 15px;
+
+  z-index: 1000;
+
+  background: rgba(255, 255, 255, 0.96);
+
+  border: 1px solid #c7d0d8;
+
+  padding: 10px 13px;
+
+  display: flex;
+  flex-direction: column;
+
+  gap: 4px;
+
+  font-size: 10px;
+
+  color: #66747e;
+
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+}
+
+.coordinate-box strong {
+  color: #244b6b;
+
+  font-size: 11px;
+
+  margin-bottom: 2px;
+}
+
+
+/* Legend */
+
+.map-legend {
+  position: absolute;
+
+  left: 15px;
+  bottom: 15px;
+
+  z-index: 1000;
+
+  background: rgba(255, 255, 255, 0.96);
+
+  border: 1px solid #c7d0d8;
+
+  padding: 12px 14px;
+
+  min-width: 170px;
+
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+}
+
+.map-legend strong {
+  display: block;
+
+  color: #244b6b;
+
+  font-size: 12px;
+
+  margin-bottom: 8px;
+}
+
+.map-legend div {
+  display: flex;
+
+  align-items: center;
+
+  gap: 7px;
+
+  margin: 6px 0;
+
+  color: #56636d;
+
+  font-size: 11px;
+}
+
+.legend-box {
+  width: 13px;
+  height: 13px;
+
+  display: inline-block;
+}
+
+.legend-box.vegetation {
+  background: #3e913f;
+}
+
+.legend-box.water {
+  background: #237ab5;
+}
+
+.legend-box.erosion {
+  background: #d06a3b;
+}
+
+.legend-box.intervention {
+  background: #8b3f72;
+}
+
+
+/* Leaflet layer control */
+
+.leaflet-control-layers {
+  border-radius: 2px !important;
+
+  border: 1px solid #c7d0d8 !important;
+
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15) !important;
+
+  font-size: 12px;
+}
+
+.leaflet-control-layers-expanded {
+  padding: 10px 12px !important;
+}
+
+.leaflet-control-layers label {
+  margin: 5px 0;
+}
+
+
+/* Zoom */
+
+.leaflet-control-zoom a {
+  color: #244b6b !important;
+}
+
+
+/* Scale */
+
+.leaflet-control-scale-line {
+  background: rgba(255, 255, 255, 0.9) !important;
+
+  border: 1px solid #66747e !important;
+
+  color: #34444f !important;
+
+  font-size: 10px;
+}

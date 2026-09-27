@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "filename": "20260925_012528_Check_dam_captured_by_me.jpg",
+    "description": "",
+    "intervention_type": "Auto Detect",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-25T01:25:28.719153",
+    "status": "gps_missing"
+  },
+  {
+    "id": 2,
+    "filename": "20260925_012530_Check_dam_captured_by_me.jpg",
+    "description": "",
+    "intervention_type": "Auto Detect",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-25T01:25:30.980005",
+    "status": "gps_missing"
+  },
+  {
+    "id": 3,
+    "filename": "20260925_012531_Check_dam_captured_by_me.jpg",
+    "description": "",
+    "intervention_type": "Auto Detect",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-25T01:25:31.716446",
+    "status": "gps_missing"
+  },
+  {
+    "id": 4,
+    "filename": "20260925_012531_Check_dam_captured_by_me.jpg",
+    "description": "",
+    "intervention_type": "Auto Detect",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-25T01:25:31.849888",
+    "status": "gps_missing"
+  },
+  {
+    "id": 5,
+    "filename": "20260925_012535_Check_dam_captured_by_me.jpg",
+    "description": "",
+    "intervention_type": "Auto Detect",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-25T01:25:35.722711",
+    "status": "gps_missing"
+  },
+  {
+    "id": 6,
+    "filename": "20260925_012535_Check_dam_captured_by_me.jpg",
+    "description": "",
+    "intervention_type": "Auto Detect",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-25T01:25:35.945704",
+    "status": "gps_missing"
+  },
+  {
+    "id": 7,
+    "filename": "20260925_012536_Check_dam_captured_by_me.jpg",
+    "description": "",
+    "intervention_type": "Auto Detect",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-25T01:25:36.008913",
+    "status": "gps_missing"
+  },
+  {
+    "id": 8,
+    "filename": "20260925_012536_Check_dam_captured_by_me.jpg",
+    "description": "",
+    "intervention_type": "Auto Detect",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-25T01:25:36.066104",
+    "status": "gps_missing"
+  },
+  {
+    "id": 9,
+    "filename": "20260925_012537_Check_dam_captured_by_me.jpg",
+    "description": "",
+    "intervention_type": "Auto Detect",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-25T01:25:37.334302",
+    "status": "gps_missing"
+  },
+  {
+    "id": 10,
+    "filename": "20260925_012807_Check_dam_captured_by_me.jpg",
+    "description": "",
+    "intervention_type": "Auto Detect",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-25T01:28:07.401003",
+    "status": "gps_missing"
+  },
+  {
+    "id": 11,
+    "filename": "20260925_012808_Check_dam_captured_by_me.jpg",
+    "description": "",
+    "intervention_type": "Auto Detect",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-25T01:28:08.328637",
+    "status": "gps_missing"
+  },
+  {
+    "id": 12,
+    "filename": "20260925_012809_Check_dam_captured_by_me.jpg",
+    "description": "",
+    "intervention_type": "Auto Detect",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-25T01:28:09.293963",
+    "status": "gps_missing"
+  },
+  {
+    "id": 13,
+    "filename": "20260925_012827_Check_dam_captured_by_me.jpg",
+    "description": "",
+    "intervention_type": "Auto Detect",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-25T01:28:27.084757",
+    "status": "gps_missing"
+  },
+  {
+    "id": 14,
+    "filename": "20260925_012831_Check_dam_captured_by_me.jpg",
+    "description": "",
+    "intervention_type": "Auto Detect",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-25T01:28:31.296220",
+    "status": "gps_missing"
+  },
+  {
+    "id": 15,
+    "filename": "20260925_012839_Check_dam_captured_by_me.jpg",
+    "description": "",
+    "intervention_type": "Auto Detect",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-25T01:28:39.642833",
+    "status": "gps_missing"
+  },
+  {
+    "id": 16,
+    "filename": "20260925_012840_Check_dam_captured_by_me.jpg",
+    "description": "",
+    "intervention_type": "Auto Detect",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-25T01:28:40.156796",
+    "status": "gps_missing"
+  },
+  {
+    "id": 17,
+    "filename": "20260925_012841_Check_dam_captured_by_me.jpg",
+    "description": "",
+    "intervention_type": "Auto Detect",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-25T01:28:41.837201",
+    "status": "gps_missing"
+  },
+  {
+    "id": 18,
+    "filename": "20260925_012842_Check_dam_captured_by_me.jpg",
+    "description": "",
+    "intervention_type": "Auto Detect",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-25T01:28:42.403555",
+    "status": "gps_missing"
+  },
+  {
+    "id": 19,
+    "filename": "20260925_012842_Check_dam_captured_by_me.jpg",
+    "description": "",
+    "intervention_type": "Auto Detect",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-25T01:28:42.456731",
+    "status": "gps_missing"
+  },
+  {
+    "id": 20,
+    "filename": "20260925_012842_Check_dam_captured_by_me.jpg",
+    "description": "",
+    "intervention_type": "Auto Detect",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-25T01:28:42.483824",
+    "status": "gps_missing"
+  },
+  {
+    "id": 21,
+    "filename": "20260925_012842_Check_dam_captured_by_me.jpg",
+    "description": "",
+    "intervention_type": "Auto Detect",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-25T01:28:42.507902",
+    "status": "gps_missing"
+  },
+  {
+    "id": 22,
+    "filename": "20260925_012842_Check_dam_captured_by_me.jpg",
+    "description": "",
+    "intervention_type": "Auto Detect",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-25T01:28:42.579143",
+    "status": "gps_missing"
+  },
+  {
+    "id": 23,
+    "filename": "20260925_012842_Check_dam_captured_by_me.jpg",
+    "description": "",
+    "intervention_type": "Auto Detect",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-25T01:28:42.602215",
+    "status": "gps_missing"
+  },
+  {
+    "id": 24,
+    "filename": "20260925_012842_Check_dam_captured_by_me.jpg",
+    "description": "",
+    "intervention_type": "Auto Detect",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-25T01:28:42.631310",
+    "status": "gps_missing"
+  },
+  {
+    "id": 25,
+    "filename": "20260925_012847_Check_dam_captured_by_me.jpg",
+    "description": "",
+    "intervention_type": "Auto Detect",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-25T01:28:47.818671",
+    "status": "gps_missing"
+  },
+  {
+    "id": 26,
+    "filename": "20260925_012858_Check_dam_captured_by_me.jpg",
+    "description": "",
+    "intervention_type": "Auto Detect",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-25T01:28:58.683128",
+    "status": "gps_missing"
+  },
+  {
+    "id": 27,
+    "filename": "20260925_012912_Check_dam_captured_by_me.jpg",
+    "description": "",
+    "intervention_type": "Auto Detect",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-25T01:29:12.231215",
+    "status": "gps_missing"
+  },
+  {
+    "id": 28,
+    "filename": "20260925_012912_Check_dam_captured_by_me.jpg",
+    "description": "",
+    "intervention_type": "Auto Detect",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-25T01:29:12.248063",
+    "status": "gps_missing"
+  },
+  {
+    "id": 29,
+    "filename": "20260925_012912_Check_dam_captured_by_me.jpg",
+    "description": "",
+    "intervention_type": "Auto Detect",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-25T01:29:12.288536",
+    "status": "gps_missing"
+  },
+  {
+    "id": 30,
+    "filename": "20260925_012912_Check_dam_captured_by_me.jpg",
+    "description": "",
+    "intervention_type": "Auto Detect",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-25T01:29:12.321328",
+    "status": "gps_missing"
+  },
+  {
+    "id": 31,
+    "filename": "20260925_012912_Check_dam_captured_by_me.jpg",
+    "description": "",
+    "intervention_type": "Auto Detect",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-25T01:29:12.337112",
+    "status": "gps_missing"
+  },
+  {
+    "id": 32,
+    "filename": "20260925_012912_Check_dam_captured_by_me.jpg",
+    "description": "",
+    "intervention_type": "Auto Detect",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-25T01:29:12.361012",
+    "status": "gps_missing"
+  },
+  {
+    "id": 33,
+    "filename": "20260925_012912_Check_dam_captured_by_me.jpg",
+    "description": "",
+    "intervention_type": "Auto Detect",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-25T01:29:12.956134",
+    "status": "gps_missing"
+  },
+  {
+    "id": 34,
+    "filename": "20260925_012912_Check_dam_captured_by_me.jpg",
+    "description": "",
+    "intervention_type": "Auto Detect",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-25T01:29:12.974283",
+    "status": "gps_missing"
+  },
+  {
+    "id": 35,
+    "filename": "20260925_012912_Check_dam_captured_by_me.jpg",
+    "description": "",
+    "intervention_type": "Auto Detect",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-25T01:29:12.997721",
+    "status": "gps_missing"
+  },
+  {
+    "id": 36,
+    "filename": "20260925_013843_Check_dam_captured_by_me.jpg",
+    "description": "",
+    "intervention_type": "No Watershed Intervention Detected",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-25T01:38:43.207806",
+    "status": "gps_missing"
+  },
+  {
+    "id": 37,
+    "filename": "20260925_014034_Crowded_New_Delhi_street_(Unsplash).jpg",
+    "description": "",
+    "intervention_type": "No Watershed Intervention Detected",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-25T01:40:34.616180",
+    "status": "gps_missing"
+  },
+  {
+    "id": 38,
+    "filename": "20260925_015112_Crowded_New_Delhi_street_(Unsplash).jpg",
+    "description": "",
+    "intervention_type": "No Watershed Intervention Detected",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-25T01:51:12.606785",
+    "status": "gps_missing"
+  },
+  {
+    "id": 39,
+    "filename": "20260925_183008_Check_dam_captured_by_me.jpg",
+    "description": "",
+    "intervention_type": "No Watershed Intervention Detected",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-25T18:30:08.517715",
+    "status": "gps_missing"
+  },
+  {
+    "id": 40,
+    "filename": "20260925_193005_Chalakudy_river_check_dam.jpg",
+    "description": "",
+    "intervention_type": "No Watershed Intervention Detected",
+    "gps": {
+      "latitude": 10.30673,
+      "longitude": 76.354141
+    },
+    "gps_available": true,
+    "uploaded_at": "2026-09-25T19:30:05.160620",
+    "status": "verified"
+  },
+  {
+    "id": 41,
+    "filename": "20260925_195959_Chalakudy_river_check_dam.jpg",
+    "description": "",
+    "intervention_type": "Watershed Intervention",
+    "gps": {
+      "latitude": 10.30673,
+      "longitude": 76.354141
+    },
+    "gps_available": true,
+    "uploaded_at": "2026-09-25T19:59:59.378535",
+    "status": "verified"
+  },
+  {
+    "id": 42,
+    "filename": "20260925_200950_Chalakudy_river_check_dam.jpg",
+    "description": "",
+    "intervention_type": "Watershed Intervention",
+    "gps": {
+      "latitude": 10.30673,
+      "longitude": 76.354141
+    },
+    "gps_available": true,
+    "uploaded_at": "2026-09-25T20:09:50.980599",
+    "status": "verified"
+  },
+  {
+    "id": 43,
+    "filename": "20260925_201833_Chalakudy_river_check_dam.jpg",
+    "description": "",
+    "intervention_type": "Watershed Observation",
+    "gps": {
+      "latitude": 10.30673,
+      "longitude": 76.354141
+    },
+    "gps_available": true,
+    "uploaded_at": "2026-09-25T20:18:33.730859",
+    "status": "verified"
+  },
+  {
+    "id": 44,
+    "filename": "20260926_012422_Chalakudy_river_check_dam.jpg",
+    "description": "",
+    "intervention_type": "Watershed Observation",
+    "gps": {
+      "latitude": 10.30673,
+      "longitude": 76.354141
+    },
+    "gps_available": true,
+    "uploaded_at": "2026-09-26T01:24:23.104085",
+    "status": "verified"
+  },
+  {
+    "id": 45,
+    "filename": "20260926_013447_Chalakudy_river_check_dam.jpg",
+    "description": "",
+    "intervention_type": "Watershed Observation",
+    "gps": {
+      "latitude": 10.30673,
+      "longitude": 76.354141
+    },
+    "gps_available": true,
+    "uploaded_at": "2026-09-26T01:34:47.998891",
+    "status": "verified"
+  },
+  {
+    "id": 46,
+    "filename": "20260926_022325_photo1_fdc_IWMP_IWMPFDC2dot6_NewActivity_Point_e4ea458f10b05ed6_14_44_10_23_10_2021.jpg",
+    "description": "",
+    "intervention_type": "Watershed Intervention",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-26T02:23:25.791029",
+    "status": "gps_missing"
+  },
+  {
+    "id": 47,
+    "filename": "20260926_022344_Chalakudy_river_check_dam.jpg",
+    "description": "",
+    "intervention_type": "Watershed Intervention",
+    "gps": {
+      "latitude": 10.30673,
+      "longitude": 76.354141
+    },
+    "gps_available": true,
+    "uploaded_at": "2026-09-26T02:23:45.185852",
+    "status": "verified"
+  },
+  {
+    "id": 48,
+    "filename": "20260926_022709_Merrudu_Telangana.jpg",
+    "description": "",
+    "intervention_type": "Watershed Intervention",
+    "gps": {
+      "latitude": 10.30673,
+      "longitude": 76.354141
+    },
+    "gps_available": true,
+    "uploaded_at": "2026-09-26T02:27:09.194729",
+    "status": "verified"
+  },
+  {
+    "id": 49,
+    "filename": "20260927_025644_Merrudu_Telangana.jpg",
+    "description": "",
+    "intervention_type": "Check Dam / Water Conservation Structure",
+    "gps": {
+      "latitude": 10.30673,
+      "longitude": 76.354141
+    },
+    "gps_available": true,
+    "uploaded_at": "2026-09-27T02:56:45.639934",
+    "status": "verified"
+  },
+  {
+    "id": 50,
+    "filename": "20260927_025955_be1a9fa0-d11a-4ede-9909-1ed99a44a83d.png",
+    "description": "",
+    "intervention_type": "Check Dam / Water Conservation Structure",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-27T02:59:57.448547",
+    "status": "gps_missing"
+  },
+  {
+    "id": 51,
+    "filename": "20260927_031139_Canon_PowerShot_S40.jpg",
+    "description": "",
+    "intervention_type": "Horticulture",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-27T03:11:40.118271",
+    "status": "gps_missing"
+  },
+  {
+    "id": 52,
+    "filename": "20260927_031239_Canon_PowerShot_S40.jpg",
+    "description": "",
+    "intervention_type": "Horticulture",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-27T03:12:39.571146",
+    "status": "gps_missing"
+  },
+  {
+    "id": 53,
+    "filename": "20260927_032621_1000174287 (1).jpg",
+    "description": "",
+    "intervention_type": "Check Dam / Water Conservation Structure",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-27T03:26:22.590509",
+    "status": "gps_missing"
+  },
+  {
+    "id": 54,
+    "filename": "20260927_032701_be1a9fa0-d11a-4ede-9909-1ed99a44a83d.png",
+    "description": "",
+    "intervention_type": "Check Dam / Water Conservation Structure",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-27T03:27:01.444307",
+    "status": "gps_missing"
+  },
+  {
+    "id": 55,
+    "filename": "20260927_035047_be1a9fa0-d11a-4ede-9909-1ed99a44a83d.png",
+    "description": "",
+    "intervention_type": "Check Dam / Water Conservation Structure",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-27T03:50:47.234600",
+    "status": "gps_missing"
+  },
+  {
+    "id": 56,
+    "filename": "20260927_061655_be1a9fa0-d11a-4ede-9909-1ed99a44a83d.png",
+    "description": "",
+    "intervention_type": "Check Dam / Water Conservation Structure",
+    "gps": null,
+    "gps_available": false,
+    "uploaded_at": "2026-09-27T06:16:55.435020",
+    "status": "gps_missing"
+  },
+  {
+    "id": 57,
+    "filename": "20260927_091928_Merrudu_Telangana.jpg",
+    "description": "",
+    "intervention_type": "Check Dam / Water Conservation Structure",
+    "gps": {
+      "latitude": 10.30673,
+      "longitude": 76.354141
+    },
+    "gps_available": true,
+    "uploaded_at": "2026-09-27T09:19:29.103110",
+    "status": "verified"
+  }
+]
